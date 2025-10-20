@@ -1,9 +1,11 @@
-const Instructor = require("../models/instructor");
+// this is an example of controller code. not actually used here
 
-const getInstructors = async () => {
-  return await Instructor.find();
-};
+// const Instructor = require("../models/instructor");
 
-module.exports = {
-  getInstructors,
-};
+// const getInstructors = async () => {
+//   return await Instructor.find();
+// };
+
+// module.exports = {
+//   getInstructors,
+// };
